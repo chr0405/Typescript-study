@@ -27,4 +27,4 @@ let b1 : null = null;
 // ts를 빠져 나오는 방법
 const a2 : any[] = [1, 2, 3, 4]
 const b2 : any = true
-a + b // 오류 없음
+a2 + b2 // 오류 없음
